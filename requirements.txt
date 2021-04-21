@@ -1,0 +1,4 @@
+matplotlib==3.3.4
+more-itertools==4.2.0
+numpy==1.19.5
+texttable==1.6.3
